@@ -51,11 +51,11 @@ To run the project locally, follow these steps:
 
 ## Authors
 
-- [@Exaudi Siregar](https://github.com/khensin166)
-- [@Sion Pardosi](https://github.com/khensin166)
-- [@Cecilia Situmorang](https://github.com/khensin166)
-- [@Anastasya Marpaung](https://github.com/khensin166)
+- [@Sion Pardosi](https://github.com/sionprdsi)
 - [@Kenan Tomfie Bukit](https://github.com/khensin166)
+- [@Exaudi Siregar](https://github.com/sionprdsi)
+- [@Cecilia Situmorang](https://github.com/sionprdsi)
+- [@Anastasya Marpaung](https://github.com/sionprdsi)
 
 ## Demo
 
