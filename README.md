@@ -2,9 +2,7 @@
 
 Repositori ini berisi source code game **Nightmare Seekers** yang dibuat dengan teknologi berbasis iOS selama mengikuti program Apple Developer Academy @Infinite Learning, Batam, Indonesia.
 
-![Gambar 1](pict1.jpg)
-![Gambar 2](pict2.jpg)
-![Gambar 3](pict3.jpg)
+
 ![Gambar 4](pict4.jpg)
 
 ## Tentang Proyek
