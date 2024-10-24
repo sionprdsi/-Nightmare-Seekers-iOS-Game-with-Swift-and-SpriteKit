@@ -1,28 +1,67 @@
-# Nightmare Seekers
+# Nightmare Seeker: iOS Game with Swift and SpriteKit
 
+### Related to Apple Developer Academy @ Infinite Learning
+
+*Nightmare Seeker* is an iOS game developed during the Apple Developer Academy @ Infinite Learning. The game incorporates advanced iOS development techniques, utilizing technologies like UIKit animations, responsive touch controls, and optimized code.
+
+## Table of Contents
+- [About the Project](#about-the-project)
+- [Gameplay Elements](#gameplay-elements)
+- [Technology Stack](#technology-stack)
+- [Run Locally](#run-locally)
+- [Authors](#authors)
+- [Demo](#demo)
+
+## About the Project
+*Nightmare Seeker* invites players into a chilling, atmospheric world filled with terrifying challenges. Players use tilt-based mechanics to control their characters by tilting their device left or right. The game emphasizes calmness and composure, as excessive movement can lead to a game over.
 ![Pict1](pict1.jpg)
 ![Pict2](pict2.jpg)
 ![Pict3](pict3.jpg)
 ![Pict4](pict4.jpg)
 
-## Tentang Proyek
-Nightmare Seekers adalah perjalanan mendebarkan ke dunia yang dipenuhi dengan tantangan dan rintangan menakutkan. Game ini memanfaatkan teknik-teknik modern dalam pengembangan game iOS, termasuk:
+## Gameplay Elements
 
-- **Animasi UIKit**: Membuat pengalaman yang lebih hidup dan dinamis.
-- **Kontrol Sentuh Responsif**: Memudahkan pemain untuk bergerak dengan lancar.
-- **Pengkodean yang Efisien**: Menjamin performa optimal di perangkat iOS.
+This game is more than just an obstacle-avoidance experience. It integrates emotional elements centered around maintaining 'calmness'. Players face unexpected surprises and fear-inducing challenges while navigating through the game world. Moving the device too quickly will result in a game over, so staying calm under pressure is essential.
 
-## Elemen Gameplay
-Tidak hanya sekadar menghindari rintangan, game ini juga mengajak pemain untuk menjaga ketenangan di tengah ketegangan. Pemain harus menghadapi kejutan dan ketakutan, sambil tetap tenang agar tidak kalah! 💪
+## Technology Stack
 
-## Teknologi dan Keterampilan
-Kami menggunakan kombinasi teknologi seperti Swift, SpriteKit, dan UIKit untuk menciptakan pengalaman bermain yang menarik. Pendekatan Challenge Based Learning (CBL) mendasari pengembangan keterampilan dalam pengkodean, desain, dan pengembangan perangkat lunak Apple.
+The development of *Nightmare Seeker* leverages various Apple technologies, showcasing:
+- **Swift**: Main programming language used.
+- **SpriteKit**: For creating 2D animations and handling the game logic.
+- **UIKit**: For integrating animations and responsive touch controls.
+- **Challenge Based Learning (CBL)**: Approach followed during development.
 
-## Kesimpulan
-Proyek Nightmare Seekers tidak hanya menyajikan pengalaman bermain yang menarik secara visual, tetapi juga menunjukkan kemajuan signifikan dalam penguasaan teknologi Apple. Proyek ini memberikan wawasan yang mendalam tentang pengembangan aplikasi iOS dan keterampilan yang diperlukan dalam industri game saat ini.
+## Run Locally
 
-## Keahlian yang Dikembangkan
-- **SpriteKit**
-- **UIKit**
-- **Swift (Bahasa Pemrograman)**
-- **Pengembangan iOS**
+To run the project locally, follow these steps:
+
+1. Clone the project repository:
+    ```bash
+    git clone https://github.com/khensin166/Nightmare-Seeker.git
+    ```
+
+2. Navigate to the project directory:
+    ```bash
+    cd Nightmare-Seeker
+    ```
+
+3. Open the project in Xcode and run the project:
+    ```bash
+    Command+R
+    ```
+
+## Authors
+
+- [@Exaudi Siregar](https://github.com/khensin166)
+- [@Sion Pardosi](https://github.com/khensin166)
+- [@Cecilia Situmorang](https://github.com/khensin166)
+- [@Anastasya Marpaung](https://github.com/khensin166)
+- [@Kenan Tomfie Bukit](https://github.com/khensin166)
+
+## Demo
+
+Demo coming soon!
+
+---
+
+*Skills:* SpriteKit · UIKit · Swift (Programming Language) · iOS Development
