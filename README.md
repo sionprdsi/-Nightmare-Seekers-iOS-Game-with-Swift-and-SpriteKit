@@ -36,7 +36,7 @@ To run the project locally, follow these steps:
 
 1. Clone the project repository:
     ```bash
-    git clone https://github.com/khensin166/Nightmare-Seeker.git
+    git clone https://github.com/sionprdsi/Nightmare-Seekers-iOS-Game-with-Swift-and-SpriteKit.git
     ```
 
 2. Navigate to the project directory:
