@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Develop Nightmare Seeker using SpriteKit
 
@@ -37,3 +38,8 @@ Run in Xcode
 
 Insert gif or link to demo
 
+=======
+# Nightmare-Seekers-iOS-Game-with-Swift-and-SpriteKit
+
+Repositori ini berisi source code game Nightmare Seeker yang dibuat dengan teknologi berbasis IOS - selama mengikuti Apple Developer Academy @Infinite Learning
+>>>>>>> d65122e7ed95b6c6872370e9260917a097347d5b
