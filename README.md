@@ -16,7 +16,6 @@
 *Nightmare Seeker* invites players into a chilling, atmospheric world filled with terrifying challenges. Players use tilt-based mechanics to control their characters by tilting their device left or right. The game emphasizes calmness and composure, as excessive movement can lead to a game over.
 ![Pict1](pict1.jpg)
 ![Pict2](pict2.jpg)
-![Pict3](pict3.jpg)
 ![Pict4](pict4.jpg)
 
 ## Gameplay Elements
