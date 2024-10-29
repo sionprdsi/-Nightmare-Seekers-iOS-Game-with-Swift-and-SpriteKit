@@ -53,9 +53,9 @@ To run the project locally, follow these steps:
 
 - [@Sion Pardosi](https://github.com/sionprdsi)
 - [@Kenan Tomfie Bukit](https://github.com/khensin166)
-- [@Exaudi Siregar](https://github.com/sionprdsi)
-- [@Cecilia Situmorang](https://github.com/sionprdsi)
-- [@Anastasya Marpaung](https://github.com/sionprdsi)
+- [@Exaudi Siregar]
+- [@Cecilia Situmorang]
+- [@Anastasya Marpaung]
 
 ## Demo
 
