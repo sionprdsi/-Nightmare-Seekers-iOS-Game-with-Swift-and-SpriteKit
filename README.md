@@ -59,7 +59,7 @@ To run the project locally, follow these steps:
 
 ## Demo
 
-Demo coming soon!
+Demo coming soon!!
 
 ---
 
