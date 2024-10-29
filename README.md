@@ -1,4 +1,4 @@
-# Nightmare Seeker: iOS Game with Swift and SpriteKit
+# Nightmare Seeker iOS Game with Swift and SpriteKit
 
 ### Related to Apple Developer Academy @ Infinite Learning
 
