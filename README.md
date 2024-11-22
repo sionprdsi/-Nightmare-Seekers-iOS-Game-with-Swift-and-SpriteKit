@@ -2,6 +2,10 @@
 ### <summary><strong>Tools:</strong></summary>
 <p>
     <img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" />
+    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" /> 
+    <img src="https://img.shields.io/badge/Framework-SpriteKit-orange?&logo=apple" />
+    <img src="https://img.shields.io/badge/Framework-UIKit-lightgrey?&logo=apple" />
+    <img src="https://img.shields.io/badge/Approach-CBL-yellowgreen?&logo=target" />
 </p>
 
 ### Related to Apple Developer Academy @ Infinite Learning
