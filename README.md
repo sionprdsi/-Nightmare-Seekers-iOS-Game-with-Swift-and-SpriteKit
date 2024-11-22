@@ -1,4 +1,8 @@
 # Nightmare Seeker iOS Game with Swift and SpriteKit
+### <summary><strong>Tools:</strong></summary>
+<p>
+    <img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" />
+</p>
 
 ### Related to Apple Developer Academy @ Infinite Learning
 
